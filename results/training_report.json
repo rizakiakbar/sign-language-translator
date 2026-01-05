@@ -1,0 +1,51 @@
+{
+    "training_history": {
+        "final_training_accuracy": 0.9991666674613953,
+        "final_validation_accuracy": 0.9993749856948853,
+        "final_training_loss": 0.0033139653969556093,
+        "final_validation_loss": 0.004206123761832714,
+        "best_validation_accuracy": 0.9993749856948853,
+        "best_validation_loss": 0.0029930653981864452
+    },
+    "test_results": {
+        "test_accuracy": 0.9987508058547974,
+        "test_loss": 0.003344629891216755
+    },
+    "model_info": {
+        "num_classes": 26,
+        "input_features": 63,
+        "classes": [
+            "A",
+            "B",
+            "C",
+            "D",
+            "E",
+            "F",
+            "G",
+            "H",
+            "I",
+            "J",
+            "K",
+            "L",
+            "M",
+            "N",
+            "O",
+            "P",
+            "Q",
+            "R",
+            "S",
+            "T",
+            "U",
+            "V",
+            "W",
+            "X",
+            "Y",
+            "Z"
+        ]
+    },
+    "training_parameters": {
+        "epochs": 100,
+        "batch_size": 32,
+        "learning_rate": 0.001
+    }
+}
